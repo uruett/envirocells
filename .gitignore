@@ -122,3 +122,7 @@ workingOn/
 #rec_*
 datasets/
 phantoms/
+
+# Uta's #
+#########
+.vscode/
