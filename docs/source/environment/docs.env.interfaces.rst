@@ -33,7 +33,7 @@ Interfaces
 .. _box Link 0010: https://anl.box.com/s/9qeu4xcm0bahty4pxgj7qhgt87277vci
 .. _box Link 0011: https://anl.box.com/s/i6t27uspatnpqdlhcne9pitkhg3m3axm
 
-.. |00001| image:: ../img/interfaces_01.png
+.. |00001| image:: ../img/interfaces_01.jpg
     :width: 20pt
     :height: 20pt
 
@@ -73,7 +73,7 @@ Interfaces
     :width: 20pt
     :height: 20pt
 
-.. _Peter Eng: mail to: eng@cars.uchicago.edu
+.. _Hawoong Hong: mail to: hhong@anl.gov
 .. _Wenqian Xu: mail to: wenqianxu@anl.gov
 .. _Kevin Beyer: mail to: wenqianxu@anl.gov
 .. _Leighanne Gallington: mail to: gallington@anl.gov
