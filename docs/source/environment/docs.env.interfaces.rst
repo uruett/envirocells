@@ -22,7 +22,7 @@ Interfaces
 .. _PTC 10 controller: https://www.thinksrs.com/products/ptc10.html
 .. _3 AWG welding wires: https://www.mcmaster.com/welding-wire
 
-
+.. _
 .. _box Link 0002: https://anl.box.com/s/9dm44plkilktwsrd75pzr7i690nayrys
 .. _box Link 0003: https://anl.box.com/s/8wq17z8ig8hzaq50u2yelgeaawx5afoy
 .. _box Link 0004: https://anl.box.com/s/s567lhhhf2b6ikamausb4488hkwccu8n
@@ -32,6 +32,10 @@ Interfaces
 .. _box Link 0009: https://anl.box.com/s/2dfu3r1al673rqg1perqia6z875cpm0g
 .. _box Link 0010: https://anl.box.com/s/9qeu4xcm0bahty4pxgj7qhgt87277vci
 .. _box Link 0011: https://anl.box.com/s/i6t27uspatnpqdlhcne9pitkhg3m3axm
+
+.. |01| image:: ../img/interfaces_01.png
+    :width: 20pt
+    :height: 20pt
 
 .. |00002| image:: ../img/furnace_00002.png
     :width: 20pt
